@@ -42,3 +42,5 @@ gem 'bootstrap-sass', '~> 3.3.1'
 gem 'simple_form'
 gem 'devise'
 gem "paperclip", "~> 4.2"
+gem 'masonry-rails', '~>0.2.1'
+gem 'acts_as_votable', '~> 0.10.0'
