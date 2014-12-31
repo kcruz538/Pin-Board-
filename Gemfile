@@ -40,3 +40,4 @@ gem 'spring',        group: :development
 gem 'haml'
 gem 'bootstrap-sass', '~> 3.3.1'
 gem 'simple_form'
+gem 'devise'
